@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**gimlichael/gimlichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michael Mortensen and this is my personal space on GitHub.
 
-Here are some ideas to get you started:
+I truly believe that everything and anything is possible with todays technology and cloud offerings from Azure, AWS, Google Cloud and others. Nothing can stop you if you put your passion to it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Cuemon for .NET](https://github.com/gimlichael/Cuemon)
+- 🌱 I’m currently upskilling my knowledge on: DDD, CQRS, Event Sourcing, Messaging, Azure and AWS
+- 👯 I’m looking to collaborate on: [Savvy I/O](https://github.com/codebeltnet/classlib-savvyio) 
+- 🤔 I’m looking for help with testing an API that will provide details about electricity prices, consumption, tariffs and fees
+- 💬 Ask me about software crafsmanship and clean code in general
+- 📫 Find me on [LinkedIN](https://www.linkedin.com/in/gimlichael/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Big fan of swiss singer [DJ BOBO](https://www.djbobo.com/)
+
+Code with passion and love; deploy with confidence 👨‍💻️🔥❤️🚀😎
