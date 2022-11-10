@@ -13,4 +13,4 @@ I truly believe that everything and anything is possible with todays technology 
 - 😄 Pronouns he/him
 - ⚡ Fun fact; big fan of swiss singer [DJ BOBO](https://www.djbobo.com/) since 1992
 
-Code with passion; love you code; deploy with confidence 👨‍💻️🔥❤️🚀😎
+Code with passion; love your work; deploy with confidence 👨‍💻️🔥❤️🚀😎
