@@ -13,7 +13,7 @@ I truly believe that everything and anything is possible with todays technology 
   - [Extensions for Swashbuckle.AspNetCore API](https://github.com/codebeltnet/swashbuckle-aspnetcore)
   - [Extensions for Newtonsoft.Json API](https://github.com/codebeltnet/newtonsoft-json)
   - [Extensions for AWS Signature Version 4 API](https://github.com/codebeltnet/aws-signature-v4)
-  - [Unitify](https://github.com/codebeltnet/unitify) _comming soon_
+  - [Unitify](https://github.com/codebeltnet/unitify)
 - 🌱 I’m currently upskilling my knowledge on DDD, CQRS, Event Sourcing, Messaging, Azure and AWS
 - 👯 I’m looking to collaborate on [Savvy I/O](https://github.com/codebeltnet/savvyio) 
 - 🤔 I’m looking for help with testing an API that will provide details about electricity prices, consumption, tariffs and fees
